@@ -1,0 +1,18 @@
+### MATLAB ###
+
+# Otomatik Kaydetme ve Yedekleme
+*.asv
+*.bak
+*.temp
+
+# Çalışma Alanı ve Geçici Veri
+*.mat
+*.dat
+*.log
+
+# Şekiller, Grafikler ve Raporlar
+*.fig
+
+# Sistem Dosyaları
+.DS_Store
+*~
