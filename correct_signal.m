@@ -1,3 +1,5 @@
+% -*- mode: matlab -*-
+
 a = [3,1,1
     ;1,3,1
     ;1,1,3];
@@ -27,4 +29,5 @@ figure;
 plot(trans);
 title('Corrupted signal');
 grid on
+
 
